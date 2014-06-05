@@ -8,8 +8,8 @@ Gem::Specification.new do |gem|
   gem.version       = QuietActions::VERSION
   gem.authors       = ["Steven Buxton"]
   gem.email         = ["want_my_s2000@hotmail.com"]
-  gem.description   = %q{TODO: Write a gem description}
-  gem.summary       = %q{TODO: Write a gem summary}
+  gem.description   = "Hides logging from certain actions"
+  gem.summary       = "Hides logging from certain actions"
   gem.homepage      = ""
 
   gem.files         = `git ls-files`.split($/)
